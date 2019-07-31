@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaI-2", "CaI-1\CaI-2.csproj", "{46B9C76D-6244-4EE2-9774-B56D4CA4478B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46B9C76D-6244-4EE2-9774-B56D4CA4478B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B9C76D-6244-4EE2-9774-B56D4CA4478B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B9C76D-6244-4EE2-9774-B56D4CA4478B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B9C76D-6244-4EE2-9774-B56D4CA4478B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FB18E71-F776-493F-BC0D-E50C660011D4}
+	EndGlobalSection
+EndGlobal

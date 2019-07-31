@@ -1,0 +1,10 @@
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\Compilers and Interpreters\CaI-1\CaI-1\bin\Debug\CaI-1.exe.config
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\Compilers and Interpreters\CaI-1\CaI-1\bin\Debug\CaI-1.exe
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\Compilers and Interpreters\CaI-1\CaI-1\bin\Debug\CaI-1.pdb
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\Compilers and Interpreters\CaI-1\CaI-1\obj\Debug\CaI-1.csprojResolveAssemblyReference.cache
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\Compilers and Interpreters\CaI-1\CaI-1\obj\Debug\CaI_1.Form1.resources
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\Compilers and Interpreters\CaI-1\CaI-1\obj\Debug\CaI_1.Properties.Resources.resources
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\Compilers and Interpreters\CaI-1\CaI-1\obj\Debug\CaI-1.csproj.GenerateResource.Cache
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\Compilers and Interpreters\CaI-1\CaI-1\obj\Debug\CaI-1.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\Compilers and Interpreters\CaI-1\CaI-1\obj\Debug\CaI-1.exe
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\Compilers and Interpreters\CaI-1\CaI-1\obj\Debug\CaI-1.pdb
